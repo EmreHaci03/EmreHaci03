@@ -17,3 +17,26 @@
 
 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/emre-hac%C4%B1-853782261/)
 ⭐ **Check out:** [GoalZone](https://github.com/EmreHaci03/GoalZone) · [Onion-CarBook](https://github.com/EmreHaci03/Onion-CarBook)
+
+---
+---
+
+### 👋 Merhaba, Ben Emre
+
+🚀 İyi yapılandırılmış ve sürdürülebilir web uygulamaları geliştirmeye tutkuyla bağlı bir **Junior .NET Developer**'ım. Ağırlıklı olarak **ASP.NET Core** ile çalışıyor, sorumlulukları birbirinden ayırmak ve kodu daha okunabilir/anlaşılır kılmak için katmanlı mimari prensiplerini takip ediyorum.
+
+🛠️ Son aylarda kimlik doğrulama ve yetkilendirmeden gerçek zamanlı iletişime, üçüncü taraf API entegrasyonlarına kadar backend geliştirmenin farklı yönlerini kapsayan uçtan uca birkaç proje geliştirdim. Temel CRUD işlemlerinin ötesindeki mimari yaklaşımları keşfetmekten keyif alıyorum; bir yaklaşımı yalnızca *nasıl* kullanacağımı değil, *ne zaman* gerçekten anlamlı olduğunu da anlamaya çalışıyorum.
+
+- 🔭 **Şu anda üzerinde çalıştığım konular:** JWT ile rol tabanlı kimlik doğrulama ve Docker ile projelerin container'a alınması
+- 💻 **Teknoloji yığınım:** C#, ASP.NET Core (Web API & MVC), Entity Framework Core, SQL Server, AutoMapper
+- 🏗️ **Mimari yaklaşımlar:** Onion Architecture, CQRS, MediatR, Repository Pattern
+- 🔗 **Entegrasyonlar:** RapidAPI, yapay zeka destekli özellikler (OCR, içerik moderasyonu)
+- 🔐 **Güvenlik:** Identity, JWT, OAuth 2.0
+- ⚡ **Gerçek zamanlı iletişim:** SignalR
+- 🌱 **Şu anda öğrendiklerim:** Docker, JWT
+- 🎯 **Hedefim:** backend geliştirici olarak kendimi geliştirmek ve gerçek dünya projelerine katkı sağlamak
+
+---
+
+📫 **Bana ulaşın:** [LinkedIn](https://www.linkedin.com/in/emre-hac%C4%B1-853782261/)
+⭐ **Diğer projelerim:** [GoalZone](https://github.com/EmreHaci03/GoalZone) · [Onion-CarBook](https://github.com/EmreHaci03/Onion-CarBook)
